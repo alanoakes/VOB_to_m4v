@@ -1,0 +1,23 @@
+#!/bin/bash
+youtube-dl http://archive.org/download/VeggieTales4/1993%20-%20VeggieTales%20-%20Wheres%20God%20When%20I%27m%20Scared.mp4
+youtube-dl http://archive.org/download/VeggieTales4/1995%20-%20VeggieTales%20-%20Are%20you%20my%20Neighbor.mp4
+youtube-dl http://archive.org/download/VeggieTales4/1996%20-%20VeggieTales%20-%20Dave%20and%20the%20Giant%20Pickle.mp4
+youtube-dl http://archive.org/download/VeggieTales4/1996%20-%20VeggieTales%20-%20The%20Toy%20That%20Saved%20Christmas.mp4
+youtube-dl http://archive.org/download/VeggieTales4/1997%20-%20VeggieTales%20-%20Josh%20And%20The%20Big%20Wall.mp4
+youtube-dl http://archive.org/download/VeggieTales4/1997%20-%20VeggieTales%20-%20Larryboy%20and%20the%20Fib%20from%20Outer%20Space.mp4
+youtube-dl http://archive.org/download/VeggieTales4/1998%20-%20VeggieTales%20-%20Larry-Boy%20-%20The%20Yodelnapper.mp4
+youtube-dl http://archive.org/download/VeggieTales4/1998%20-%20VeggieTales%20-%20Madam%20Blueberry.mp4
+youtube-dl http://archive.org/download/VeggieTales4/1998%20-%20VeggieTales%20-%20Rack%2C%20Shack%20%26%20Benny.mp4
+youtube-dl http://archive.org/download/VeggieTales4/1999%20-%20VeggieTales%20-%20Larry-Boy%20and%20the%20Rumor%20Weed.mp4
+youtube-dl http://archive.org/download/VeggieTales4/2000%20-%20VeggieTales%20-%20Esther...%20The%20Girl%20Who%20Became%20Queen.mp4
+youtube-dl http://archive.org/download/VeggieTales4/2000%20-%20VeggieTales%20-%20King%20George%20and%20the%20Ducky.mp4
+youtube-dl http://archive.org/download/VeggieTales4/2001%20-%20VeggieTales%20-%20Lyle%20The%20Kindly%20Viking.mp4
+youtube-dl http://archive.org/download/VeggieTales4/2002%20-%20VeggieTales%20-%20Jonah%20A%20VeggieTales%20Movie.mp4
+youtube-dl http://archive.org/download/VeggieTales4/2002%20-%20VeggieTales%20-%20Larry-Boy%20-%20Angry%20Eyebrows.mp4
+youtube-dl http://archive.org/download/VeggieTales4/2002%20-%20VeggieTales%20-%20The%20Star%20Of%20Christmas.mp4
+youtube-dl http://archive.org/download/VeggieTales4/2003%20-%20VeggieTales%20-%20Ballad%20of%20Little%20Joe.mp4
+youtube-dl http://archive.org/download/VeggieTales4/2004%20-%20VeggieTales%20-%20A%20Snoodle%27s%20Tale%20%26%20The%20Story%20of%20Flibber-o-Loo.mp4
+youtube-dl http://archive.org/download/VeggieTales4/2004%20-%20VeggieTales%20-%20An%20Easter%20Carol.mp4
+youtube-dl http://archive.org/download/VeggieTales4/2004%20-%20VeggieTales%20-%20Sumo%20of%20the%20Opera.mp4
+youtube-dl http://archive.org/download/VeggieTales4/2004%20-%20VeggieTales%20-%20The%20Wonderful%20World%20of%20Autotainment.mp4
+youtube-dl http://archive.org/download/VeggieTales4/2005%20-%20VeggieTales%20-%20Duke%20and%20the%20Great%20Pie%20War.mp4
